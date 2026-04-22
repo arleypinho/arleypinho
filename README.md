@@ -20,6 +20,6 @@
 
 ###
 
-<p align="left">Sou Arley Pinho, brasileiro do interior do Amazonas, atualmente sou Pós-Graduando em Engenharia de Software, apaixonado por resolver problemas com tecnologia e criar diferentes soluções.<br><br>Também sou Licenciado em Computação com experiência em projetos voltados para Informática na Educação. Procuro sempre ajudar as pessoas na aquilo que eu posso. 👨‍💻 🚀<br><br>💻 Adoro ajudar as pessoas com a minha experiência.<br>🏡 Adoro estar com minha família e amigos, eles são tudo para mim.<br>✈️ Adoro viajar e conhecer novos lugares e culturas.<br>⚽ Apaixonado por futebol, Clube de Regatas do Flamengo (Brasil) 🔴⚫️<br>👨‍🎓 Minha vida acadêmica aqui!!</p>
+<p align="left">Sou Arley Pinho, brasileiro do interior do Amazonas, atualmente sou Pós-Graduado em Engenharia de Software, apaixonado por resolver problemas com tecnologia e criar diferentes soluções.<br><br>Também sou Licenciado em Computação com experiência em projetos voltados para Informática na Educação. Procuro sempre ajudar as pessoas na aquilo que eu posso. 👨‍💻 🚀<br><br>💻 Adoro ajudar as pessoas com a minha experiência.<br>🏡 Adoro estar com minha família e amigos, eles são tudo para mim.<br>✈️ Adoro viajar e conhecer novos lugares e culturas.<br>⚽ Apaixonado por futebol, Clube de Regatas do Flamengo (Brasil) 🔴⚫️<br>👨‍🎓 Minha vida acadêmica aqui!!</p>
 
 ###
